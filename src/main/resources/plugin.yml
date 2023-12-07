@@ -1,0 +1,4 @@
+name: elytra_balance_spigot
+version: '${project.version}'
+main: illia.kai.elytra_balance_spigot.Elytra_balance_spigot
+api-version: '1.20'
