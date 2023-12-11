@@ -10,10 +10,10 @@
 
 *<p align="center">System that complicates the use of elytra</p>*
 ___
-### How it works
+### How it works?
 When a player is damaged, Elytra has a 25% chance of breaking.
 ___
-### How to install
+### How to install?
 [How to install plugins.](https://bukkit.fandom.com/wiki/Installing_Plugins)
 #### Where to get the plugin
 `original-elytra_balance_spigot-*.*.jar` file in:
