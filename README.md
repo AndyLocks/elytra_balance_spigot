@@ -1,5 +1,10 @@
 <p align="center">
+    <span>
     <a href="https://github.com/AndyLocks/elytra_balance_spigot/releases"><img src="https://img.shields.io/badge/Releases-gray?style=for-the-badge&logo=github&label=Git&labelColor=black"></a>
+    </span>
+    <span>
+    <a href="https://github.com/AndyLocks/elytra_balance_spigot/blob/master/LICENSE"><img src="https://img.shields.io/badge/gpl-blue?style=for-the-badge&label=license&labelColor=black"></a>
+    </span>
 </p>
 
 # *<p align="center">Elytra balance system</p>*
